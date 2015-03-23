@@ -1,4 +1,5 @@
 {
+  "name":"cocoscii",
   "jspm": {
     "directories": {
       "lib": ".",
