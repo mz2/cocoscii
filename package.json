@@ -1,5 +1,6 @@
 {
   "name":"cocoscii",
+  "version":"0.0.1",
   "jspm": {
     "directories": {
       "lib": ".",
